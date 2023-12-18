@@ -34,7 +34,8 @@ To invoke the application simply run this command on your terminal :
 
 Then follow the steps, below there is a video to show how to use the application
 
-       ![Video Tutorial](https://drive.google.com/file/d/1ajeCk2k99Jiyyy0OOSVu6G9WDjy-7ubB/view)
+       
+[Tutorial Application](https://github.com/Aleks-Ianu/ReadMeGenerator/assets/110541549/d08555a1-905b-490e-b281-f96b22c0d38c)
 
 
 
