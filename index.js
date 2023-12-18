@@ -121,7 +121,7 @@ ${answers.Description}
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [Licence](#licence)
+- [Licence Description](#licence-description) 
 - [Features](#features)
 - [Contributing](#contributing)
 - [Test](#test)
@@ -137,7 +137,7 @@ ${answers.Usage}
 ${answers.Credits}
 
 
-## License Description
+## Licence Description
 ${getLicenseDescription(answers.Licence)}
 
 
