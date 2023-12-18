@@ -23,6 +23,11 @@ The application uses Node and the Inquirer package, this enable the user to crea
 
 To invoke the application simply run this command on your terminal :
 
+
+![CA970810-64F4-45CE-849B-666F62950AAA](https://github.com/Aleks-Ianu/ReadMeGenerator/assets/110541549/84332920-29b5-4bdb-bbf7-3dcb29c0173d)
+
+
+
                                 node index.js
             
                          [Invoke Node](/assets/node index.js example.jpeg)
