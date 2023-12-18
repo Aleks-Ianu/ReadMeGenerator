@@ -176,7 +176,7 @@ const getLicenseDescription = (license) => {
 init()
     .then((answers) => {
         const markdown = generateREADME(answers);
-        return writeFileAsync('README.md', markdown);
+        return writeFileAsync('README1.md', markdown);
     })
     .then(() => console.log('Created file and wrote to README.md'))
     .catch((err) => console.error(err));
